@@ -1,5 +1,5 @@
 
-![AndromedaCore-2](https://github.com/user-attachments/assets/bedb8a91-e691-45f9-a160-30d8f45587ff)
+![AndromedaCore-3](https://github.com/user-attachments/assets/5f1f79f1-5003-42ab-be19-bed927f4e45d)
 
 
 ## About Me

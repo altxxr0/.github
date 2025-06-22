@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5f1f79f1-5003-42ab-be19-bed927f4e45d" alt="AndromedaCore Logo" width="400"/>
+  <img src="https://github.com/user-attachments/assets/5f1f79f1-5003-42ab-be19-bed927f4e45d" alt="AndromedaCore Logo"/>
 </p>
 
 ## About Me

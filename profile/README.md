@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5f1f79f1-5003-42ab-be19-bed927f4e45d" alt="AndromedaCore Logo"/>
+  <sub><em>If the preview doesn't appear right away, please give it a moment to load.</em></sub>
 </p>
 
-<center><sub><em>If the preview doesn't appear right away, please give it a moment to load.</em></sub></center>
+
 
 ## ▶ About Me
 Self-taught developer with experience in both software and web development. Passionate about building useful applications and learning new technologies.
@@ -30,4 +31,6 @@ Self-taught developer with experience in both software and web development. Pass
 ![altxxr0's GitHub stats](https://github-readme-stats.vercel.app/api?username=altxxr0&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altxxr0&layout=compact&theme=tokyonight)
 
-<center><sub><em>If the preview doesn't appear right away, please give it a moment to load.</em></sub></center>
+<p align="center">
+  <sub><em>If the preview doesn't appear right away, please give it a moment to load.</em></sub>
+</p>

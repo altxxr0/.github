@@ -1,10 +1,9 @@
-
-![AndromedaCore-3](https://github.com/user-attachments/assets/5f1f79f1-5003-42ab-be19-bed927f4e45d)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5f1f79f1-5003-42ab-be19-bed927f4e45d" alt="AndromedaCore Logo" width="400"/>
+</p>
 
 ## About Me
 Self-taught developer with experience in both software and web development. Passionate about building useful applications and learning new technologies.
-
 
 ## Skills
 - **Languages:** C#, Java, JavaScript, PHP  
@@ -13,11 +12,18 @@ Self-taught developer with experience in both software and web development. Pass
 - **Tools:** Android Studio, Visual Studio, VS Code  
 
 ## Projects
-- Various personal and school projects using Java and C#  
-- Web-based systems using HTML/CSS/JS/PHP  
-- Exploring Android and game engine development
+- Personal and academic projects using Java and C#  
+- Web systems built with HTML/CSS/JavaScript/PHP  
+- Currently exploring Android and game engine development
+
+## GitHub Repo Status
+- 🔴 Actively Being Worked On  
+- ⭕ In Progress  
+- 🔵 On Hold  
+- ⚫ Inactive / Not Being Worked On  
+- ⚪ Lower Priority
 
 ## GitHub Stats
 
-![altxxr0's GitHub stats](https://github-readme-stats.vercel.app/api?username=altxxr0&show_icons=true&theme=tokyonight)
+![altxxr0's GitHub stats](https://github-readme-stats.vercel.app/api?username=altxxr0&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altxxr0&layout=compact&theme=tokyonight)

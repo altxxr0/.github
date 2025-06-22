@@ -1,5 +1,6 @@
 
-![Uploading AndromedaCore-2.gif…]()
+![AndromedaCore-2](https://github.com/user-attachments/assets/bedb8a91-e691-45f9-a160-30d8f45587ff)
+
 
 ## About Me
 Self-taught developer with experience in both software and web development. Passionate about building useful applications and learning new technologies.

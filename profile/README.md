@@ -28,8 +28,8 @@ Self-taught developer with experience in both software and web development. Pass
 
 ## GitHub Stats
 
-![altxxr0's GitHub stats](https://github-readme-stats.vercel.app/api?username=altxxr0&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altxxr0&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=altxxr0&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=altxxr0&layout=compact&theme=tokyonight)
 
 <p align="center">
   <sub><em>If the preview doesn't appear right away, please give it a moment to load.</em></sub>

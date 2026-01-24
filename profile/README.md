@@ -3,11 +3,6 @@
   <sub><em>If the preview doesn't appear right away, please give it a moment to load.</em></sub>
 </p>
 
-
-
-## About Me
-Self-taught developer with experience in both software and web development. Passionate about building useful applications and learning new technologies.
-
 ## Skills
 - **Languages:** C#, Java, JavaScript, PHP  
 - **Web:** HTML, CSS, Responsive Design  

@@ -13,3 +13,8 @@
 - Personal and academic projects using Java and C#  
 - Web systems built with HTML/CSS/JavaScript/PHP  
 - Currently exploring Android and game engine development
+
+## Commisioned Projects
+- Peer Commissions for other Group Projects
+- Website's / Landing Pages, Internal Systems, Mobile Application Development
+- International and Local Clients

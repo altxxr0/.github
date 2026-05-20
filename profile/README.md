@@ -4,7 +4,7 @@
 </p>
 
 ## Skills
-- **Languages:** C#, Java, JavaScript, PHP  
+- **Languages:** C#, Java, JavaScript, PHP, Python
 - **Web:** HTML, CSS, Responsive Design  
 - **Back-end:** PHP, Java, basic SQL  
 - **Tools:** Android Studio, Visual Studio, VS Code  

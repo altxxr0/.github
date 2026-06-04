@@ -21,7 +21,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,js,php,python,html,css,androidstudio,visualstudio,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,kali,windows,php,python,html,css,androidstudio,visualstudio,vscode,git,github,markdown" />
 </p>
 
 | Area | Technologies |

@@ -20,7 +20,7 @@
 
 ## 🛠️ Skills
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cs,java,js,php,python,html,css,androidstudio,visualstudio,vscode,git,github" />
 </p>
 
@@ -39,7 +39,7 @@ A mix of personal builds, academic work, and commissioned deliverables. I work a
 
 - 🔭 Currently exploring **Android development** and **game engine development**
 - 🌱 Learning: expanding into more structured back-end and mobile patterns
-- 🤝 Open to commissions — see below
+- 🤝 Open to commissions - see below
 
 ---
 
@@ -47,10 +47,10 @@ A mix of personal builds, academic work, and commissioned deliverables. I work a
 
 I take on commissioned projects from peers, local, and international clients.
 
-- **Peer Commissions** — group project support, academic systems
-- **Web** — websites, landing pages, internal management systems
-- **Mobile** — Android app development
-- **Clients** — local and international
+- **Peer Commissions** - group project support, academic systems
+- **Web** - websites, landing pages, internal management systems
+- **Mobile** - Android app development
+- **Clients** - local and international
 
 > Interested in working together? Reach me on [LinkedIn](https://linkedin.com/in/altxxr0).
 

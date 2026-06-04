@@ -48,9 +48,10 @@ A mix of personal builds, academic work, and commissioned deliverables. I work a
 I take on commissioned projects from peers, local, and international clients.
 
 - **Peer Commissions** - group project support, academic systems
-- **Web** - websites, landing pages, internal management systems
+- **Web** - Websites, landing pages, databases
 - **Mobile** - Android app development
-- **Clients** - local and international
+- **Systems** - Internal management systems, capstone projects
+- **Clients** - Local and international
 
 > Interested in working together? Reach me on [LinkedIn](https://linkedin.com/in/altxxr0).
 

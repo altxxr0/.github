@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/altxxr0"><img src="https://img.shields.io/badge/LinkedIn-altxxr0-0077B5?style=flat-square&logo=linkedin" /></a>
-  <a href="https://gitlab.com/altxxr0"><img src="https://img.shields.io/badge/GitLab-altxxr0-FC6D26?style=flat-square&logo=gitlab" /></a>
-  <a href="https://stackoverflow.com/u/16724059/"><img src="https://img.shields.io/badge/Stack%20Overflow-altxxr0-F58025?style=flat-square&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/altxxr0"><img src="https://img.shields.io/badge/LinkedIn-altxxr0-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://gitlab.com/altxxr0"><img src="https://img.shields.io/badge/GitLab-altxxr0-FC6D26?style=for-the-badge&logo=gitlab" /></a>
+  <a href="https://stackoverflow.com/u/16724059/"><img src="https://img.shields.io/badge/Stack%20Overflow-altxxr0-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
 </p>
 
 ---

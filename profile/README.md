@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Self-taught developer & STI College student</b> · Building software, web systems, and mobile apps from the Philippines 🇵🇭
+  <b>Self-taught developer</b> · Building software, web systems, and mobile apps from the Philippines 🇵🇭
   <br/>
   Open to commissions and collaborations.
 </p>

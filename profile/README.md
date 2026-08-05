@@ -15,9 +15,6 @@
   <a href="https://gitlab.com/altxxr0"><img src="https://img.shields.io/badge/GitLab-altxxr0-FC6D26?style=for-the-badge&logo=gitlab" /></a>
   <a href="https://stackoverflow.com/u/16724059/"><img src="https://img.shields.io/badge/Stack%20Overflow-altxxr0-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
 </p>
-<p align="center">
-  <img width="80" height="60" alt="STI_EDU" src="https://github.com/user-attachments/assets/c176c6d5-9ebf-49b2-a4eb-12c4f54f3613" />
-</p>
 
 ---
 
@@ -66,3 +63,8 @@ I take on commissioned projects from peers, local, and international clients.
   <img src="https://github-readme-stats.vercel.app/api?username=altxxr0&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altxxr0&layout=compact&theme=github_dark&hide_border=true" height="150"/>
 </p>
+
+<p align="center">
+  <img width="80" height="60" alt="STI_EDU" src="https://github.com/user-attachments/assets/c176c6d5-9ebf-49b2-a4eb-12c4f54f3613" />
+</p>
+

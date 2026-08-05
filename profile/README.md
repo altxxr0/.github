@@ -24,12 +24,16 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,kali,windows,php,python,html,css,androidstudio,visualstudio,vscode,git,github,markdown" />
 </p>
 
+<div align="center">
+  
 | Area | Technologies |
 |---|---|
 | Languages | C#, Java, JavaScript, PHP, Python |
 | Web | HTML, CSS, Responsive Design |
 | Back-end | PHP, Java, SQL |
 | Tools | Android Studio, Visual Studio, VS Code |
+
+</div>
 
 ---
 
